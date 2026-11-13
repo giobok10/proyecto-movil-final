@@ -21,6 +21,20 @@ Aplicación móvil full-stack organizada como monorepo. Incluye registro e inici
 
 ---
 
+## 📱 Capturas de pantalla
+
+Las imágenes de la aplicación están en [`img/`](img/).
+
+| Inicio de sesión | Registro | Perfil |
+| --- | --- | --- |
+| <img src="img/localhost_8100_login%28Samsung%20Galaxy%20A55%29.png" alt="Pantalla de inicio de sesión" width="240"> | <img src="img/localhost_8100_register%28Samsung%20Galaxy%20A55%29.png" alt="Pantalla de registro" width="240"> | <img src="img/localhost_8100_profile%28Samsung%20Galaxy%20A55%29.png" alt="Pantalla de perfil" width="240"> |
+
+| Perfil con foto |
+| --- |
+| <img src="img/localhost_8100_profile%28Samsung%20Galaxy%20A55%29%20%28foto_cargada%29.png" alt="Perfil con una foto seleccionada" width="240"> |
+
+---
+
 ## 📁 Estructura del Monorepo
 
 ```text
