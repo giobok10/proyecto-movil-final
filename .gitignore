@@ -1,6 +1,8 @@
 # Ignore everything unless explicitly allowed below.
 /*
 !/.gitignore
+!/README.md
+!/DOCUMENTACION.md
 !/backend/
 !/frontend/
 
